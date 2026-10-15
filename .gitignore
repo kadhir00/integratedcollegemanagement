@@ -1,14 +1,9 @@
 node_modules/
-/dist/
+dist/
+build/
 .env
 .env.*
+!.env.example
 serviceAccountKey.json
 *.log
 .DS_Store
-.idea/
-.vscode/
-/.next/
-/.parcel-cache/
-/.nuxt/
-/.cache/
-/build/
